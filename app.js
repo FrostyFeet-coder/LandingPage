@@ -102,4 +102,4 @@ delay: 4.5,
 
 setTimeout(function () {
   alert("Click On Portfolio To See The Portfolio");
-}, 7000);
+}, 6500);
