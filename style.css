@@ -97,6 +97,8 @@ nav{
     padding: 2em;
     display: flex;
     background-color: rgb(241, 10, 10);
+    position: fixed;
+
 }
 a{
     font-size: large;
@@ -134,6 +136,8 @@ nav > div{
     text-align: center;
     justify-content: center;
     align-items: center;
+    padding-top: 100px;
+
 }
 
 footer{
