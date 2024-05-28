@@ -178,9 +178,6 @@ footer>div{
 }
 
 @media (max-width: 900px) {
-     p{
-    margin-top: 200px;
-   }
 
     footer{
         flex-direction: column;
