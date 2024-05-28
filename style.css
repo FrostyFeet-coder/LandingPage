@@ -179,7 +179,7 @@ footer>div{
 
 @media (max-width: 900px) {
 
-        p{
+        footer>p{
     justify-content:center;
     text-align:center
 }
