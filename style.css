@@ -97,7 +97,7 @@ nav{
     padding: 2em;
     display: flex;
     background-color: rgb(241, 10, 10);
-    position: fixed;
+    position: relative;
 
 }
 a{
