@@ -179,6 +179,12 @@ footer>div{
 
 @media (max-width: 900px) {
 
+        p{
+    justify-content:center;
+    text-align:center
+}
+
+    
     footer{
         flex-direction: column;
         gap: 2em;
